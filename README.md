@@ -5,7 +5,7 @@ Bu projeyi, Notion yahut envaiçeşit muadili en ufak etkileşimli sayfa için p
 Kronometreyi kronometre olarak, sınava geri sayımı da ontolojik tahakkümün akoru olarak kullanabilirsiniz.\
 Motivasyon kutucuğunun işlevini metin belgesinde aratarak değiştirebilirsiniz.\
 Eyüp B kutucuğu sizi YouTube'da kayıtlı ders playlistlerinize yönlendirecektir.\
-Çalışmadığınız günnü "0" olarak işaretlemezseniz grafik çok üzülecektir.\
+Çalışmadığınız günü "0" olarak işaretlemezseniz grafik çok üzülecektir.\
 Saati 0.00 formatında girmediğiniz sürece her türlü işiniz ters gidecektir.
 
 <img width="1919" height="1079" alt="Screenshot_8" src="https://github.com/user-attachments/assets/4979500a-7749-4159-bfa4-45f966f4fe22" />
